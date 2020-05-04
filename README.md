@@ -15,7 +15,7 @@ It also uses:
 
 ## User interface
 
-![Interface design](/readme-image.png)
+![Interface design](https://raw.githubusercontent.com/RunNCatch/RunNCatch/master/readme-image.png)
 
 [Link to Figma design](https://www.figma.com/file/7hnSdEs2b7tEkloUSqfwpT/Untitled)
 
